@@ -334,7 +334,7 @@ def core(index):
 
 # 创建主窗口
 root = tk.Tk()
-root.title("24点游戏                                                                                                                               by: 杭州市文理小学四年级24点小组    version: release candidate")
+root.title("24点游戏                                                                                                                                       by: 杭州市文理小学四年级24点小组    version: RC v1.0")
 
 # Create score board
 score_label0 = tk.Label(root, text="得分：")
